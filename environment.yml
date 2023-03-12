@@ -1,0 +1,10 @@
+name: reacher
+channels:
+    - conda-forge
+dependencies:
+    - pip:
+        - openai
+        - jupyter
+        - notebook
+        - pandas
+        - RotatingTextFile
