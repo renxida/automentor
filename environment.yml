@@ -1,4 +1,4 @@
-name: reacher
+name: automentor
 channels:
     - conda-forge
 dependencies:
